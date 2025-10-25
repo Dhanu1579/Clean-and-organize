@@ -23,19 +23,6 @@ The cleaned data and summary reports are exported for visualization in **Tableau
 
 ---
 
-## 📂 Project Structure
-📁 SharkTankProject/
-│
-├── Shark Tank India.csv # Raw dataset
-├── shark_tank_cleaning.ipynb # Data cleaning & preparation script
-├── Cleaned_SharkTank_Main.csv # Cleaned dataset for Tableau
-├── Tableau_Industry_Summary.csv # Industry-wise summary
-├── Tableau_Founder_Success.csv # Founder success summary
-├── shark_analysis_report.pdf # Final PDF dashboard (from Tableau)
-└── README.md # Project documentation
-
----
-
 ## ⚙️ Data Preparation Workflow
 
 ### **1️⃣ Load & Clean Data**
@@ -86,10 +73,4 @@ Exported 3 clean CSV files for Tableau:
 | **Founder Success Summary** | Funding rate by team size |
 | **PDF Report** | Exported visual dashboard summary |
 
----
 
-## 🧾 How to Run (Mac or Windows)
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Dhanu1579/SharkTankAnalysis.git
-   cd SharkTankAnalysis
