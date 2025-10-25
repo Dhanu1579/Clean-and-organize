@@ -1,0 +1,635 @@
+startup_name,industry,original_ask_amount,total_deal_amount,number_of_sharks_in_deal,total_deal_equity,number_of_presenters,funded_flag
+BluePineFoods,Food and Beverage,50.0,75.0,3.0,16.0,3,True
+BoozScooters,Vehicles/Electrical Vehicles,40.0,40.0,2.0,50.0,1,True
+HeartUpMySleeves,Beauty/Fashion,25.0,25.0,2.0,30.0,1,True
+TagzFoods,Food and Beverage,70.0,70.0,1.0,2.75,2,True
+HeadAndHeart,Children/Education,50.0,,,,4,False
+Agritourism,Agriculture,50.0,,,,2,False
+qZenseLabs,Food and Beverage,100.0,,,,2,False
+Peeschute,Beauty/Fashion,75.0,75.0,1.0,6.0,1,True
+NOCD,Food and Beverage,50.0,20.0,1.0,15.0,2,True
+CosIQ,Beauty/Fashion,50.0,50.0,2.0,25.0,2,True
+JhaJiAchaar,Food and Beverage,50.0,56.6,2.0,5.62,2,True
+Bummer,Beauty/Fashion,75.0,75.0,2.0,7.5,1,True
+RevampMoto,Vehicles/Electrical Vehicles,100.0,100.0,2.0,1.5,3,True
+HungryHead,Food and Beverage,50.0,,,,2,False
+ShrawaniEngineers,Beauty/Fashion,20.0,,,,2,False
+SkippiIcePops,Food and Beverage,45.0,100.0,5.0,15.0,2,True
+Menstrupedia,Children/Education,50.0,50.0,1.0,20.0,2,True
+Hecoll,Beauty/Fashion,100.0,,,,1,False
+RaisingSuperstars,Children/Education,100.0,100.0,2.0,4.0,2,True
+Torch-it,Children/Education,75.0,,,,1,False
+Kavach,Children/Education,5.0,5.0,2.0,10.0,2,True
+LaKheerDeli,Food and Beverage,50.0,,,,3,False
+BeyondSnack,Food and Beverage,50.0,50.0,2.0,2.5,1,True
+VivalyfInnovations,Medical/Health,56.0,56.0,2.0,33.33,2,True
+MotionBreeze,Vehicles/Electrical Vehicles,30.0,30.0,1.0,6.0,4,True
+Altor,Manufacturing,50.0,50.0,2.0,7.0,4,True
+Ariro,Manufacturing,50.0,50.0,2.0,10.0,2,True
+KabiraHandmad,Food and Beverage,100.0,,,,2,False
+Nuutjob,Beauty/Fashion,25.0,25.0,3.0,20.0,2,True
+Meatyour,Food and Beverage,30.0,30.0,3.0,20.0,3,True
+EventBeep,Children/Education,30.0,30.0,3.0,3.0,3,True
+Gopal's56,Food and Beverage,30000.0,,,,1,False
+ARRCOATSurfaceTextures,Manufacturing,50.0,50.0,1.0,15.0,3,True
+Farda,Beauty/Fashion,30.0,30.0,2.0,20.0,2,True
+Auli,Beauty/Fashion,75.0,75.0,1.0,15.0,1,True
+SweeDesi,Food and Beverage,40.0,,,,2,False
+LOKA,Technology/Software,40.0,40.0,3.0,24.0,1,True
+Annie,Children/Education,30.0,105.0,3.0,3.0,4,True
+Carragreen,Green/CleanTech,50.0,50.0,2.0,20.0,2,True
+TheYarnBazaar,Manufacturing,50.0,100.0,4.0,10.0,1,True
+TheRenalProject,Medical/Health,100.0,100.0,2.0,6.0,1,True
+MorrikoPureFoods,Food and Beverage,100.0,,,,3,False
+GoodGoodPiggy,Technology/Software,45.0,,,,2,False
+HammerLifestyle,Electronics,30.0,100.0,1.0,40.0,3,True
+PNTRobotics,Technology/Software,50.0,25.0,1.0,25.0,2,True
+Cocofit,Food and Beverage,5.0,5.0,3.0,5.0,3,True
+BambooIndia,Manufacturing,80.0,50.0,2.0,3.5,2,True
+FlyingFur,Animal/Pets,75.0,,,,3,False
+BeyondWater,Food and Beverage,75.0,75.0,2.0,15.0,2,True
+Let'sTry,Food and Beverage,45.0,45.0,2.0,12.0,4,True
+FindYourKicksIndia,Beauty/Fashion,50.0,50.0,5.0,25.0,3,True
+AasVidyalaya,Children/Education,150.0,150.0,3.0,15.0,2,True
+Outbox,Business Services,50.0,,,,2,False
+RoadBounce,Technology/Software,80.0,80.0,1.0,20.0,1,True
+Mommy'sKitchen,Food and Beverage,90.0,,,,3,False
+IndiaHempandCo,Food and Beverage,50.0,,,,1,False
+Otua,Vehicles/Electrical Vehicles,100.0,1.0,1.0,1.0,2,True
+Anthyesti,Business Services,50.0,,,,1,False
+Ethik,Manufacturing,15.0,,,,2,False
+WeSTOCK,Animal/Pets,50.0,60.0,4.0,10.0,2,True
+KetoIndia,Food and Beverage,150.0,,,,1,False
+Magiclock,Hardware,120.0,,,,3,False
+TheStatePlate,Food and Beverage,65.0,40.0,1.0,3.0,2,True
+Bakarmax,Technology/Software,35.0,,,,2,False
+INACAN,Food and Beverage,50.0,100.0,5.0,10.0,3,True
+Get-A-Whey,Food and Beverage,100.0,100.0,3.0,15.0,2,True
+Sid07Designs,Hardware,47.0,25.0,1.0,75.0,1,True
+TheQuirkyNaari,Beauty/Fashion,35.0,35.0,2.0,24.0,1,True
+HairOriginals,Beauty/Fashion,60.0,60.0,3.0,4.0,3,True
+Poo-de-Cologne,Beauty/Fashion,75.0,,,,1,False
+Moonshine,Food and Beverage,80.0,,,,2,False
+Falhari,Food and Beverage,50.0,,,,3,False
+NamhyaFoods,Food and Beverage,100.0,50.0,1.0,10.0,1,True
+UrbanMonkey,Beauty/Fashion,100.0,,,,1,False
+GuardianGears,Manufacturing,30.0,,,,2,False
+ModernMyth,Beauty/Fashion,75.0,,,,2,False
+TheSassBar,Beauty/Fashion,40.0,50.0,2.0,35.0,1,True
+KGAgrotech,Agriculture,30.0,10.0,1.0,40.0,2,True
+NuskhaKitchen,Food and Beverage,20.0,,,,2,False
+PawsIndia,Animal/Pets,50.0,50.0,1.0,15.0,1,True
+SunfoxTechnologies,Medical/Health,100.0,100.0,5.0,6.0,4,True
+Alpino,Food and Beverage,150.0,,,,4,False
+IsakFragrances,Beauty/Fashion,50.0,50.0,1.0,50.0,1,True
+JulaaAutomation,Manufacturing,50.0,,,,3,False
+RarePlanet,Manufacturing,65.0,65.0,1.0,3.0,2,True
+ThekaCoffee,Food and Beverage,50.0,,,,1,False
+WattTechnovations,Medical/Health,0.00101,0.00101,4.0,4.0,1,True
+AlisteTechnologies,Technology/Software,60.0,,,,6,False
+InsuranceSamadhan,Business Services,100.0,100.0,1.0,4.0,3,True
+HumpyA2,Food and Beverage,75.0,100.0,3.0,15.0,3,True
+KunafaWorld,Food and Beverage,90.0,,,,2,False
+GoldSafeSolutions,Manufacturing,50.0,50.0,3.0,30.0,2,True
+WakaoFoods,Food and Beverage,75.0,75.0,3.0,21.0,1,True
+PDDFalcon,Manufacturing,75.0,,,,2,False
+PlayBoxTV,Business Services,100.0,,,,2,False
+Sippline,Manufacturing,75.0,,,,1,False
+KabaddiAdda,Fitness/Sports/Outdoors,80.0,80.0,2.0,6.0,2,True
+ShadesofSpring,Business Services,300.0,,,,2,False
+Scholify,Children/Education,50.0,,,,1,False
+Scrapshala,Manufacturing,50.0,,,,2,False
+Sabjikothi,Manufacturing,60.0,,,,2,False
+AyuRythm,Medical/Health,75.0,75.0,1.0,2.68,3,True
+Astrix,Manufacturing,75.0,,,,2,False
+TheaAndSid,Business Services,80.0,,,,2,False
+ExperentialEtc,Technology/Software,200.0,,,,2,False
+GrowFitter,Technology/Software,50.0,50.0,1.0,2.0,2,True
+C3Med-Tech,Medical/Health,35.0,,,,2,False
+ColourMeMad-CMM,Beauty/Fashion,40.0,40.0,1.0,25.0,2,True
+Mavi's,Food and Beverage,40.0,,,,2,False
+TweekLabs,Fitness/Sports/Outdoors,40.0,60.0,3.0,10.0,4,True
+Proxgy,Technology/Software,35.0,100.0,2.0,10.0,2,True
+NomadFoodProject,Food and Beverage,40.0,40.0,4.0,20.0,2,True
+TweeInOne,Beauty/Fashion,30.0,,,,1,False
+GreenProtein,Food and Beverage,60.0,,,,2,False
+On2Cook,Food and Beverage,100.0,,,,1,False
+JainShikanji,Food and Beverage,40.0,40.0,4.0,30.0,1,True
+Woloo,Technology/Software,50.0,,,,3,False
+ElcareIndia,Medical/Health,100.0,,,,3,False
+SneaKare,Beauty/Fashion,20.0,21.0,3.0,12.0,1,True
+FrenchCrown,Beauty/Fashion,150.0,,,,2,False
+StoreMyGoods,Business Services,100.0,50.0,2.0,4.0,3,True
+Devnagri,Technology/Software,100.0,,,,2,False
+WitBlox,Manufacturing,60.0,60.0,2.0,10.0,2,True
+Kineer,Food and Beverage,100.0,,,,2,False
+PiChem,Manufacturing,40.0,,,,1,False
+Clensta,Beauty/Fashion,100.0,,,,1,False
+InfinitiInsects,Animal/Pets,25.0,,,,2,False
+AshwaPro,Business Services,50.0,,,,1,False
+Mine4Nine,Beauty/Fashion,75.0,,,,2,False
+StudioBeej,Beauty/Fashion,75.0,,,,1,False
+Sattuz,Food and Beverage,25.0,,,,2,False
+Scintiglo,Medical/Health,75.0,,,,1,False
+Glii,Business Services,40.0,,,,4,False
+StanleeIndia,Electronics,60.0,,,,3,False
+SpaceKidzIndia,Manufacturing,100.0,,,,2,False
+UrbanNaps,Business Services,50.0,,,,2,False
+Gizmoswala,Entertainment,75.0,,,,3,False
+ZyppElectric,Vehicles/Electrical Vehicles,220.0,,,,2,False
+Picsniff,Technology/Software,55.0,,,,1,False
+Deciwood,Electronics,50.0,,,,2,False
+HappyBar,Food and Beverage,60.0,,,,3,False
+Tathastulive,Business Services,50.0,,,,3,False
+BandsandCups,Beauty/Fashion,40.0,,,,1,False
+MyWealthProtector,Business Services,50.0,,,,2,False
+TheIris,Manufacturing,10.0,,,,2,False
+Canebot,Food and Beverage,100.0,,,,2,False
+OyeDelhiOye,Food and Beverage,35.0,,,,2,False
+InaliAssistiveTech,Medical/Health,50.0,,,,2,False
+Meera'sCelebrations,Business Services,50.0,,,,2,False
+Artment,Lifestyle/Home,170.0,,,,2,False
+Powertree,Manufacturing,150.0,,,,2,False
+Eume,Beauty/Fashion,150.0,,,,3,False
+Hoovu,Business Services,80.0,100.0,2.0,2.0,2,True
+Dorji,Food and Beverage,30.0,30.0,3.0,15.0,2,True
+Recode,Beauty/Fashion,100.0,,,,2,False
+VeryMuchIndian,Beauty/Fashion,50.0,50.0,2.0,10.0,2,True
+WatchoutWearables,Electronics,200.0,100.0,2.0,10.0,2,True
+SoupX,Food and Beverage,75.0,50.0,1.0,18.0,2,True
+ATMOSPHERE,Food and Beverage,75.0,,,,2,False
+Stage,Entertainment,300.0,150.0,3.0,0.6,3,True
+Girgit,Beauty/Fashion,20.0,20.0,1.0,20.0,2,True
+GearHeadMotors,Vehicles/Electrical Vehicles,75.0,100.0,2.0,6.67,2,True
+PatilKaki,Food and Beverage,40.0,40.0,2.0,4.0,3,True
+Brandsdaddy,Manufacturing,70.0,35.0,1.0,5.0,2,True
+Winston,Beauty/Fashion,100.0,100.0,2.0,10.0,2,True
+Flatheads,Beauty/Fashion,75.0,,,,1,False
+OrganicSmokes,Beauty/Fashion,100.0,,,,3,False
+TeaFit,Food and Beverage,50.0,50.0,4.0,8.0,3,True
+Haqdarshak,Business Services,100.0,100.0,3.0,2.0,2,True
+Bhaskar'sPuranpoliGhar,Food and Beverage,75.0,,,,3,False
+GunjanAppsStudios,Technology/Software,250.0,,,,2,False
+TheSimplySalad,Food and Beverage,30.0,30.0,2.0,10.0,2,True
+AyuSynk,Medical/Health,100.0,50.0,1.0,3.5,3,True
+AtypicalAdvantage,Technology/Software,30.0,30.0,2.0,3.0,1,True
+HouseOfChikankari,Beauty/Fashion,75.0,75.0,2.0,3.75,2,True
+MagicOfMemories,Beauty/Fashion,25.0,,,,1,False
+Paradyes,Beauty/Fashion,65.0,65.0,2.0,2.0,2,True
+Nestroots,Lifestyle/Home,50.0,50.0,1.0,2.0,1,True
+Zillionaire,Beauty/Fashion,50.0,100.0,1.0,10.0,2,True
+Credmate,Technology/Software,50.0,,,,2,False
+Freebowler,Fitness/Sports/Outdoors,75.0,25.0,1.0,7.5,2,True
+ABCSports&Fitness,Fitness/Sports/Outdoors,40.0,40.0,1.0,10.0,2,True
+Primebook,Technology/Software,75.0,75.0,2.0,3.0,4,True
+DailyDump,Manufacturing,80.0,30.0,1.0,4.0,2,True
+GharSoaps,Beauty/Fashion,60.0,60.0,1.0,4.0,2,True
+Janitri,Medical/Health,100.0,100.0,1.0,2.5,1,True
+JaipurWatchCompany,Manufacturing,50.0,,,,1,False
+InsideFPV,Manufacturing,75.0,75.0,4.0,15.0,3,True
+Angrakhaa,Beauty/Fashion,40.0,40.0,1.0,20.0,2,True
+Diabexy,Food and Beverage,150.0,,,,2,False
+Kyari,Manufacturing,51.0,51.0,2.0,6.0,2,True
+MoppFoods,Food and Beverage,75.0,75.0,1.0,5.0,2,True
+Econiture,Green/CleanTech,50.0,,,,4,False
+Dobiee,Food and Beverage,72.0,72.0,1.0,6.5,2,True
+FastBeetle,Business Services,90.0,90.0,2.0,7.5,2,True
+Pflow,Medical/Health,60.0,60.0,2.0,6.0,2,True
+VSMani,Food and Beverage,60.0,19.0,1.0,1.0,3,True
+Sepal,Manufacturing,50.0,50.0,1.0,2.0,2,True
+Solinas,Business Services,90.0,90.0,2.0,3.0,4,True
+AvimeeHerbal,Beauty/Fashion,280.0,,,,5,False
+eyenic,Beauty/Fashion,75.0,,,,2,False
+ekatra,Lifestyle/Home,40.0,20.0,2.0,20.0,2,True
+Raasa,Food and Beverage,50.0,50.0,1.0,25.0,1,True
+NeoMotion,Manufacturing,100.0,100.0,1.0,1.0,3,True
+licksters,Food and Beverage,50.0,25.0,1.0,5.0,2,True
+Sayonara,Beauty/Fashion,100.0,,,,1,False
+PMV,Vehicles/Electrical Vehicles,100.0,,,,1,False
+SpiceStory,Food and Beverage,70.0,70.0,1.0,5.0,3,True
+Bullspree,Technology/Software,75.0,75.0,2.0,2.86,3,True
+Snitch,Beauty/Fashion,150.0,150.0,5.0,1.5,1,True
+Portl,Business Services,150.0,150.0,3.0,2.5,3,True
+FatToSlim,Beauty/Fashion,20.0,,,,1,False
+CheeseCake&Co.,Food and Beverage,100.0,,,,2,False
+Dabble,Manufacturing,50.0,15.0,1.0,10.0,2,True
+CloudTailor,Business Services,100.0,,,,3,False
+BeUnic,Business Services,100.0,,,,3,False
+Broomees,Business Services,80.0,100.0,3.0,3.0,3,True
+Ravel,Beauty/Fashion,75.0,75.0,1.0,10.0,1,True
+HoneyVeda,Food and Beverage,75.0,50.0,2.0,20.0,2,True
+PadCare,Manufacturing,50.0,100.0,4.0,4.0,1,True
+SwadeshiBlessings,Lifestyle/Home,50.0,25.0,2.0,5.0,3,True
+OLL,Technology/Software,30.0,30.0,2.0,5.0,1,True
+Febris,Medical/Health,100.0,,,,2,False
+Geeani,Vehicles/Electrical Vehicles,75.0,100.0,3.0,10.0,3,True
+Amore,Food and Beverage,75.0,75.0,1.0,7.5,2,True
+LeafyAffair,Beauty/Fashion,50.0,,,,1,False
+ScrapUncle,Green/CleanTech,60.0,60.0,1.0,5.0,1,True
+SharmaJiKiAata,Food and Beverage,40.0,40.0,1.0,20.0,2,True
+Manetain,Beauty/Fashion,75.0,75.0,1.0,10.0,2,True
+GavinParis,Beauty/Fashion,50.0,,,,2,False
+UnStop,Technology/Software,100.0,200.0,4.0,4.0,1,True
+BlueTea,Food and Beverage,75.0,50.0,1.0,3.0,2,True
+TheGreenSnack,Food and Beverage,100.0,100.0,1.0,8.0,2,True
+HobbyIndia,Lifestyle/Home,50.0,,,,3,False
+Flhexible,Lifestyle/Home,50.0,,,,2,False
+UpThrust,Fitness/Sports/Outdoors,75.0,,,,2,False
+Zoff,Food and Beverage,100.0,100.0,1.0,1.25,2,True
+DesiToys,Manufacturing,50.0,,,,1,False
+CloudWorx,Technology/Software,40.0,40.0,2.0,3.2,1,True
+Mahantam,Manufacturing,30.0,30.0,5.0,20.0,2,True
+MindPeers,Medical/Health,53.0,106.0,4.0,2.0,2,True
+Barosi,Food and Beverage,50.0,,,,1,False
+Daryaganj,Food and Beverage,90.0,90.0,1.0,1.0,3,True
+DhruvVidyut,Vehicles/Electrical Vehicles,0.0,0.0,3.0,0.5,1,False
+CELLBELL,Lifestyle/Home,90.0,,,,3,False
+Tipayi,Manufacturing,50.0,,,,1,False
+DigiQure,Medical/Health,40.0,40.0,1.0,10.0,2,True
+Nirmalaya,Manufacturing,60.0,,,,3,False
+Pabiben,Beauty/Fashion,50.0,10.0,1.0,5.0,2,True
+Homestrap,Lifestyle/Home,70.0,50.0,1.0,7.0,2,True
+uBreathe,Manufacturing,150.0,50.0,1.0,5.0,2,True
+Deyor,Technology/Software,100.0,,,,2,False
+iMumz,Medical/Health,70.0,10.0,1.0,1.0,3,True
+TheHealthyBinge,Food and Beverage,50.0,50.0,2.0,5.0,2,True
+Freakins,Beauty/Fashion,70.0,50.0,1.0,2.5,2,True
+Perfora,Lifestyle/Home,80.0,80.0,3.0,2.5,2,True
+MidNightAngelsByPC,Beauty/Fashion,75.0,,,,2,False
+CureSee,Medical/Health,40.0,50.0,1.0,10.0,3,True
+MeduLance,Medical/Health,200.0,200.0,3.0,2.0,2,True
+Cakelicious,Food and Beverage,25.0,25.0,1.0,20.0,2,True
+Bowled.io,Fitness/Sports/Outdoors,80.0,,,,2,False
+Toyshine,Manufacturing,125.0,,,,1,False
+neuphony,Medical/Health,100.0,100.0,2.0,5.4,2,True
+Amrutam,Food and Beverage,50.0,,,,3,False
+HoloKitab,Technology/Software,45.0,45.0,1.0,25.0,2,True
+Zoe,Food and Beverage,75.0,,,,2,False
+Hornback,Vehicles/Electrical Vehicles,50.0,50.0,1.0,2.5,2,True
+Malaki,Food and Beverage,50.0,50.0,2.0,3.0,2,True
+nanoclean,Manufacturing,80.0,,,,1,False
+DesmondJi,Liquor/Alcohol,100.0,,,,2,False
+Cremeitalia,Food and Beverage,90.0,,,,1,False
+nawgati,Business Services,67.0,67.0,2.0,3.0,3,True
+Swytchd,Vehicles/Electrical Vehicles,50.0,,,,1,False
+GladFul,Food and Beverage,50.0,50.0,3.0,3.5,2,True
+Pharmallama,Medical/Health,100.0,200.0,5.0,5.0,3,True
+CraveRajaFoods,Food and Beverage,65.0,,,,2,False
+VAPerfume,Lifestyle/Home,100.0,,,,1,False
+Hood,Technology/Software,120.0,60.0,2.0,0.54,3,True
+TwistingScoops,Food and Beverage,100.0,,,,2,False
+GROWiT,Agriculture,100.0,50.0,2.0,1.0,2,True
+Makino,Food and Beverage,200.0,,,,4,False
+Trunome,Medical/Health,150.0,150.0,4.0,2.0,2,True
+Wol3D,Manufacturing,150.0,80.0,1.0,2.0,4,True
+What'sUpWellness,Food and Beverage,50.0,60.0,3.0,4.76,2,True
+ProostBeer,Food and Beverage,100.0,,,,2,False
+DrCubes,Food and Beverage,80.0,,,,2,False
+MetroRide,Vehicles/Electrical Vehicles,75.0,,,,2,False
+Conker,Technology/Software,40.0,,,,1,False
+WTF,Food and Beverage,75.0,,,,1,False
+funngro,Technology/Software,50.0,50.0,2.0,4.16,3,True
+Aadvik,Food and Beverage,60.0,15.0,1.0,1.5,2,True
+oyehappy,Business Services,50.0,,,,2,False
+HealthyMaster,Food and Beverage,50.0,50.0,1.0,6.5,3,True
+Kitsons,Lifestyle/Home,1000.0,,,,3,False
+LondonBubble,Food and Beverage,75.0,75.0,1.0,15.0,2,True
+WaggyZone,Animal/Pets,50.0,,,,1,False
+NutriCook,Food and Beverage,100.0,50.0,1.0,10.0,2,True
+Subhag,Medical/Health,50.0,20.0,1.0,1.0,3,True
+SinghStyled,Beauty/Fashion,50.0,50.0,1.0,10.0,2,True
+ZSportsTech,Fitness/Sports/Outdoors,60.0,,,,2,False
+ThePlatedProject,Business Services,75.0,75.0,3.0,3.75,1,True
+VsnapU,Business Services,50.0,,,,4,False
+TheHealthyFactory,Food and Beverage,75.0,,,,2,False
+Brevistay,Business Services,100.0,,,,5,False
+SoulUp,Business Services,50.0,50.0,1.0,5.0,2,True
+TheBigBookBox ChapterOneBooks,Lifestyle/Home,50.0,,,,2,False
+Rubans,Beauty/Fashion,150.0,100.0,3.0,1.0,2,True
+SameNotification,Technology/Software,25.0,,,,1,False
+BottomLineSprays,Lifestyle/Home,35.0,,,,2,False
+LilGoodness,Food and Beverage,100.0,50.0,1.0,1.0,2,True
+ForeverModest,Beauty/Fashion,20.0,20.0,4.0,20.0,1,True
+Sahayatha,Medical/Health,100.0,100.0,5.0,10.0,1,True
+WickedGud,Food and Beverage,50.0,,,,3,False
+maisha,Beauty/Fashion,75.0,10.0,1.0,1.0,3,True
+NishHair,Beauty/Fashion,100.0,100.0,1.0,2.0,1,True
+MYBYK,Vehicles/Electrical Vehicles,200.0,,,,1,False
+GODESi,Food and Beverage,90.0,,,,2,False
+TAC,Beauty/Fashion,150.0,81.0,2.0,1.0,2,True
+Naara-Aaba,Liquor/Alcohol,75.0,50.0,2.0,5.0,2,True
+StyloBug,Beauty/Fashion,80.0,80.0,1.0,10.0,2,True
+ZenOnco,Medical/Health,100.0,,,,2,False
+HonestHome,Green/CleanTech,100.0,100.0,1.0,3.0,1,True
+AdilQadri,Beauty/Fashion,100.0,100.0,1.0,1.0,1,True
+ConsciousChemist,Beauty/Fashion,60.0,,,,2,False
+TheCinnamonKitchen,Food and Beverage,60.0,60.0,1.0,5.0,1,True
+WtfGyms,Business Services,100.0,,,,2,False
+Intervue,Technology/Software,150.0,150.0,1.0,2.0,2,True
+RodBez,Vehicles/Electrical Vehicles,50.0,20.0,2.0,5.0,2,True
+Blix,Technology/Software,80.0,80.0,2.0,4.0,1,True
+Homversity,Technology/Software,65.0,,,,1,False
+TURMS,Beauty/Fashion,120.0,120.0,1.0,4.0,1,True
+mintree,Beauty/Fashion,90.0,90.0,2.0,1.5,1,True
+80Wash,Manufacturing,100.0,,,,3,False
+DilFoods,Food and Beverage,50.0,200.0,4.0,2.67,1,True
+AIKavach/Panoplia,Technology/Software,50.0,100.0,2.0,2.5,1,True
+Bartisans,Liquor/Alcohol,100.0,,,,2,False
+Aretto,Manufacturing,80.0,,,,1,False
+Kalakaram,Manufacturing,50.0,60.0,3.0,6.0,1,True
+NabhiSutra,Beauty/Fashion,60.0,,,,2,False
+Zorko,Food and Beverage,150.0,,,,2,False
+Tramboo,Fitness/Sports/Outdoors,30.0,30.0,2.0,4.0,2,True
+WeHear,Medical/Health,250.0,250.0,1.0,1.0,2,True
+Tiggle,Food and Beverage,50.0,50.0,2.0,20.0,1,True
+WYLDCard,Technology/Software,50.0,75.0,1.0,1.5,3,True
+upliance.ai,Lifestyle/Home,100.0,,,,2,False
+PizzaGalleria,Food and Beverage,100.0,,,,2,False
+AiCars,Vehicles/Electrical Vehicles,200.0,,,,1,False
+RooftopApp,Technology/Software,200.0,,,,1,False
+GoenchiFeni,Liquor/Alcohol,100.0,200.0,1.0,15.0,2,True
+Arata,Beauty/Fashion,100.0,100.0,2.0,1.33,2,True
+Vecros,Technology/Software,100.0,20.0,1.0,1.0,2,True
+GudGum,Food and Beverage,50.0,80.0,4.0,10.0,2,True
+EvaScalp,Medical/Health,30.0,30.0,3.0,1.8,1,True
+Elitty,Beauty/Fashion,100.0,,,,2,False
+HoneyTwigs,Food and Beverage,75.0,75.0,3.0,3.0,3,True
+Koparo,Food and Beverage,70.0,70.0,2.0,1.0,1,True
+2Ballz,Beauty/Fashion,30.0,,,,3,False
+JewelBox,Beauty/Fashion,100.0,200.0,5.0,6.0,2,True
+DaakRoom,Business Services,36.0,36.0,1.0,6.0,2,True
+Nuvedo,Food and Beverage,50.0,,,,2,False
+WALK,Medical/Health,50.0,50.0,2.0,2.3,1,True
+RajaRaniCoaching,Beauty/Fashion,130.0,,,,2,False
+DecodeAge,Medical/Health,100.0,100.0,1.0,2.25,3,True
+ALittleExtra,Beauty/Fashion,48.0,60.0,2.0,7.5,1,True
+Assembly,Beauty/Fashion,85.0,,,,2,False
+NasherMiles,Beauty/Fashion,300.0,300.0,5.0,1.5,3,True
+AltCo,Food and Beverage,150.0,,,,2,False
+Without,Beauty/Fashion,75.0,75.0,2.0,3.0,1,True
+Kibo,Technology/Software,60.0,60.0,2.0,6.0,2,True
+VOLD,Food and Beverage,50.0,10.0,1.0,10.0,1,True
+Quirksmith,Beauty/Fashion,80.0,,,,2,False
+UrbanSpace,Lifestyle/Home,180.0,,,,2,False
+HyperLab,Fitness/Sports/Outdoors,10.0,25.0,1.0,1.0,3,True
+EcoBiotraps,Green/CleanTech,50.0,,,,3,False
+Hoora,Technology/Software,80.0,,,,2,False
+YesMadam,Beauty/Fashion,150.0,150.0,4.0,2.0,4,True
+Zerodor,Lifestyle/Home,100.0,,,,2,False
+ToffeeCoffeeRoasters,Food and Beverage,60.0,35.0,1.0,2.33,2,True
+PushSports,Fitness/Sports/Outdoors,80.0,80.0,2.0,4.0,2,True
+ORBO,Technology/Software,100.0,100.0,1.0,1.0,3,True
+CannazoIndia,Beauty/Fashion,150.0,,,,3,False
+Chefling,Food and Beverage,40.0,40.0,4.0,16.0,1,True
+IntenseFocus,Beauty/Fashion,500.0,,,,1,False
+MilletAmma,Food and Beverage,100.0,,,,2,False
+D'chica,Beauty/Fashion,80.0,80.0,2.0,2.0,2,True
+Refit,Electronics,200.0,200.0,3.0,1.0,2,True
+HouseOfBeautyIndia,Beauty/Fashion,150.0,,,,1,False
+Artinci,Food and Beverage,50.0,50.0,1.0,5.0,2,True
+TheRageRoom,Business Services,20.0,,,,1,False
+Aastey,Beauty/Fashion,80.0,,,,2,False
+Matri,Medical/Health,60.0,60.0,2.0,4.0,2,True
+Rubbabu,Manufacturing,200.0,,,,3,False
+GulaboJaipur,Beauty/Fashion,90.0,,,,2,False
+AristaVault,Manufacturing,45.0,20.0,1.0,1.0,2,True
+ToHands,Technology/Software,55.0,60.0,2.0,2.0,3,True
+PlusGold,Technology/Software,60.0,60.0,1.0,1.5,2,True
+Aroleap,Medical/Health,100.0,100.0,4.0,5.0,3,True
+Cosmix,Medical/Health,100.0,100.0,1.0,1.0,2,True
+Fabriclore,Beauty/Fashion,68.7,,,,3,False
+PolishMePretty,Beauty/Fashion,25.0,25.0,1.0,25.0,1,True
+GridMats,Manufacturing,500.0,,,,2,False
+UnclePetersPanCakes,Food and Beverage,60.0,60.0,3.0,3.0,2,True
+CreativeHatti,Business Services,60.0,,,,5,False
+CandidMen,Beauty/Fashion,60.0,60.0,2.0,5.0,2,True
+Flyrobe,Beauty/Fashion,50.0,50.0,1.0,4.0,1,True
+WiseLife,Medical/Health,60.0,120.0,4.0,4.0,2,True
+Cervicheck,Medical/Health,75.0,75.0,1.0,5.0,2,True
+Eatverse,Food and Beverage,100.0,,,,3,False
+AvataarSkincare,Beauty/Fashion,70.0,35.0,2.0,0.5,1,True
+ChalteFirteMangalkaryalay,Business Services,200.0,,,,3,False
+KryzenBiotech,Agriculture,75.0,75.0,1.0,15.0,2,True
+FOMO,Food and Beverage,35.0,35.0,2.0,6.0,2,True
+ModelVerse,Technology/Software,25.0,25.0,3.0,10.0,1,True
+VikrantBikes,Vehicles/Electrical Vehicles,30.0,,,,1,False
+TheShellHair,Beauty/Fashion,30.0,30.0,1.0,3.0,1,True
+Rize,Food and Beverage,45.0,,,,2,False
+MEPACK,Business Services,7.0,7.0,2.0,10.0,2,True
+BaccaBucci,Beauty/Fashion,250.0,,,,2,False
+Vobble,Children/Education,25.0,25.0,1.0,2.0,2,True
+BeUNatural,Beauty/Fashion,60.0,,,,1,False
+Erotissch,Beauty/Fashion,75.0,,,,2,False
+Niblerzz,Food and Beverage,50.0,10.0,1.0,5.0,2,True
+Sorich,Food and Beverage,90.0,,,,2,False
+LittleBox,Beauty/Fashion,75.0,75.0,5.0,2.5,2,True
+CremeCastle,Food and Beverage,60.0,60.0,1.0,2.5,2,True
+Namakwali,Food and Beverage,50.0,10.0,1.0,5.0,2,True
+KariboCosmetics,Beauty/Fashion,80.0,,,,2,False
+Deeva,Beauty/Fashion,200.0,75.0,3.0,6.0,1,True
+DesignTemplate,Technology/Software,100.0,100.0,1.0,10.0,1,True
+Sama,Business Services,100.0,100.0,3.0,1.5,3,True
+GoldenFeathers,Manufacturing,500.0,,,,3,False
+Myracle.io,Technology/Software,120.0,,,,1,False
+Cup-ji,Food and Beverage,50.0,,,,2,False
+AToddlerThing,Beauty/Fashion,80.0,40.0,1.0,2.0,2,True
+FlexifyMe,Medical/Health,100.0,50.0,1.0,1.32,2,True
+Dharaksha,Green/CleanTech,0.0125,0.0125,5.0,1.0,2,True
+iDreamCareer,Technology/Software,110.0,60.0,2.0,1.0,2,True
+RockPaperRum,Liquor/Alcohol,50.0,20.0,1.0,1.0,1,True
+Fit&Flex,Food and Beverage,100.0,,,,1,False
+Sukham,Medical/Health,100.0,,,,4,False
+Smotect,Medical/Health,100.0,50.0,1.0,5.0,1,True
+Katidhan,Manufacturing,150.0,75.0,1.0,5.0,1,True
+NEMAAI,Technology/Software,80.0,40.0,2.0,8.0,1,True
+MaplePods,Business Services,150.0,,,,1,False
+SpecOps,Others,80.0,40.0,2.0,2.0,1,True
+KaabilKids,Technology/Software,70.0,50.0,2.0,2.5,3,True
+OddGiraffe,Lifestyle/Home,75.0,,,,2,False
+Nemocare,Medical/Health,100.0,20.0,1.0,0.67,2,True
+WhySoBlue,Beauty/Fashion,75.0,40.0,1.0,3.0,2,True
+CoratiaTechnologies,Technology/Software,80.0,80.0,1.0,1.0,2,True
+Coolant,Manufacturing,90.0,,,,1,False
+Xmachines,Technology/Software,72.0,72.0,2.0,4.0,1,True
+Luvottica,Lifestyle/Home,200.0,,,,1,False
+FarmDidi,Food and Beverage,50.0,100.0,2.0,10.0,3,True
+Popcorn,Food and Beverage,75.0,75.0,1.0,15.0,1,True
+Prorata,Business Services,100.0,50.0,2.0,10.0,1,True
+Indigifts,Business Services,50.0,50.0,2.0,4.0,2,True
+AlienVersions,Vehicles/Electrical Vehicles,50.0,,,,2,False
+Rocca,Food and Beverage,60.0,30.0,1.0,2.5,2,True
+KikoLive,Technology/Software,100.0,,,,3,False
+Melooha,Others,80.0,,,,3,False
+FUTRStudios,Technology/Software,100.0,,,,2,False
+Allter,Lifestyle/Home,100.0,100.0,3.0,4.0,1,True
+FirstBudOrganics,Food and Beverage,50.0,50.0,1.0,10.0,2,True
+Shararat,Lifestyle/Home,60.0,,,,2,False
+Competishun,Children/Education,200.0,,,,3,False
+BombayClosetCleanse,Beauty/Fashion,100.0,,,,2,False
+KioskKaffee,Food and Beverage,90.0,,,,3,False
+NeonAttack,Lifestyle/Home,75.0,50.0,2.0,2.0,2,True
+PTal,Lifestyle/Home,50.0,100.0,5.0,3.2,3,True
+RoadPilot,Technology/Software,80.0,,,,2,False
+SmartMop,Lifestyle/Home,15.0,,,,2,False
+Lea,Beauty/Fashion,100.0,100.0,4.0,4.0,2,True
+$KrishnaRama,Entertainment,200.0,,,,2,False
+Rentit4me,Business Services,150.0,,,,3,False
+CoolTheGlobe,Green/CleanTech,25.0,25.0,2.0,8.0,1,True
+Canvaloop,Green/CleanTech,100.0,200.0,5.0,4.0,2,True
+DigitalPaani,Green/CleanTech,70.0,,,,2,False
+FAEBeauty,Beauty/Fashion,100.0,100.0,2.0,1.5,1,True
+CONFECT,Food and Beverage,100.0,100.0,1.0,2.0,1,True
+Indulge,Technology/Software,50.0,,,,2,False
+BLFabric,Beauty/Fashion,100.0,100.0,2.0,5.0,1,True
+CultureCircle,Beauty/Fashion,120.0,300.0,2.0,3.0,2,True
+NexeraHealth,Medical/Health,75.0,,,,1,False
+NOOE,Technology/Software,50.0,500.0,1.0,51.0,2,True
+GoZero,Food and Beverage,100.0,100.0,1.0,1.5,1,True
+CurveElectric,Technology/Software,500.0,,,,2,False
+Gudworld,Food and Beverage,50.0,50.0,1.0,5.0,2,True
+airth,Lifestyle/Home,60.0,100.0,2.0,3.7,2,True
+OneDios,Lifestyle/Home,75.0,,,,1,False
+InnerGize,Medical/Health,54.0,100.0,3.0,4.2,3,True
+PersonalTouchSkincare,Beauty/Fashion,120.0,,,,2,False
+KIWIKisanWindow,Lifestyle/Home,50.0,250.0,1.0,10.0,2,True
+TripoleGear,Fitness/Sports/Outdoors,100.0,75.0,1.0,1.15,1,True
+Neosapien,Technology/Software,80.0,80.0,1.0,4.0,2,True
+MissCheesecake,Food and Beverage,30.0,,,,2,False
+SpeedKitchen,Food and Beverage,200.0,200.0,3.0,6.0,2,True
+MudgarClub,Fitness/Sports/Outdoors,50.0,50.0,1.0,12.5,2,True
+ImagiMake,Children/Education,150.0,,,,2,False
+BeastLife,Medical/Health,100.0,,,,2,False
+GoDevil,Beauty/Fashion,80.0,,,,2,False
+Havintha,Beauty/Fashion,50.0,,,,1,False
+NurturingGreen,Lifestyle/Home,100.0,50.0,1.0,1.25,1,True
+kyari,Lifestyle/Home,80.0,,,,2,False
+ProjectClay,Children/Education,15.0,15.0,1.0,10.0,2,True
+DeniBikes,Vehicles/Electrical Vehicles,30.0,,,,1,False
+PrettyLittleShop,Lifestyle/Home,30.0,,,,1,False
+Aquapeya,Lifestyle/Home,70.0,70.0,2.0,3.0,2,True
+Jarsh,Manufacturing,50.0,50.0,1.0,1.5,3,True
+DACBY,Beauty/Fashion,75.0,,,,1,False
+Shyle,Beauty/Fashion,70.0,70.0,2.0,1.5,2,True
+SavaniHeritage,Business Services,300.0,100.0,1.0,0.8,3,True
+SNEAKINN,Beauty/Fashion,90.0,90.0,1.0,6.5,2,True
+fupro,Medical/Health,60.0,60.0,3.0,4.0,2,True
+Kanvas,Beauty/Fashion,60.0,,,,1,False
+ezo,Manufacturing,50.0,,,,3,False
+Seven,Technology/Software,75.0,75.0,3.0,1.5,3,True
+TheFutureAnimations,Technology/Software,50.0,50.0,1.0,10.0,2,True
+Aignosis,Technology/Software,50.0,100.0,3.0,8.0,2,True
+Rosha,Manufacturing,60.0,60.0,2.0,4.0,3,True
+MakeMyPayment,Technology/Software,30.0,,,,4,False
+PatchUp,Medical/Health,50.0,50.0,1.0,2.27,1,True
+tikitoro,Beauty/Fashion,25.0,25.0,1.0,1.0,1,True
+Ashva,Medical/Health,50.0,50.0,1.0,4.0,1,True
+AseemShakti,Beauty/Fashion,50.0,50.0,1.0,10.0,1,True
+RBDMachineTools,Agriculture,100.0,50.0,2.0,1.0,2,True
+MidasPaint,Green/CleanTech,300.0,,,,4,False
+GoodlandPickleball,Fitness/Sports/Outdoors,80.0,80.0,1.0,6.0,2,True
+TheNaturikCo,Food and Beverage,50.0,400.0,5.0,22.22,2,True
+Metashot,Fitness/Sports/Outdoors,80.0,160.0,2.0,5.0,3,True
+GabruDiChaap,Food and Beverage,70.0,140.0,3.0,6.0,2,True
+YaanMan,Beauty/Fashion,50.0,100.0,2.0,20.0,1,True
+SonicLamb,Lifestyle/Home,50.0,50.0,1.0,1.0,2,True
+Woolah,Food and Beverage,50.0,50.0,1.0,2.5,1,True
+EM5,Beauty/Fashion,70.0,100.0,1.0,10.0,1,True
+WomanLikeU,Beauty/Fashion,100.0,100.0,1.0,3.0,2,True
+BookLeafPublishing,Others,90.0,,,,2,False
+Str8bat,Fitness/Sports/Outdoors,150.0,150.0,2.0,3.5,3,True
+Ruby'sOrganics,Beauty/Fashion,100.0,100.0,1.0,8.0,1,True
+TheGoodDoll,Children/Education,50.0,,,,2,False
+Schickwheel,Manufacturing,70.0,,,,2,False
+ClapStoreToys,Children/Education,80.0,100.0,5.0,10.0,2,True
+RahejaSolarFoodProcessing,Manufacturing,50.0,175.0,3.0,4.38,2,True
+Wanderlooms,Fitness/Sports/Outdoors,50.0,50.0,2.0,4.0,2,True
+Ugees,Lifestyle/Home,50.0,50.0,1.0,4.0,2,True
+Alt.fCoworking,Business Services,100.0,,,,2,False
+BurgerBae,Beauty/Fashion,100.0,200.0,3.0,20.0,3,True
+BobaBhai,Food and Beverage,50.0,90.0,2.0,1.0,1,True
+Hexafun,Beauty/Fashion,100.0,,,,2,False
+RepeatGud,Food and Beverage,50.0,50.0,1.0,10.0,1,True
+SkateSupplyIndia,Fitness/Sports/Outdoors,50.0,,,,2,False
+UtopianDrinks,Food and Beverage,40.0,,,,2,False
+GOFIG,Green/CleanTech,50.0,,,,2,False
+Joyspoon,Food and Beverage,40.0,40.0,1.0,2.0,2,True
+bambinos,Children/Education,100.0,100.0,3.0,1.5,2,True
+FundooLabs,Children/Education,60.0,66.0,2.0,7.0,1,True
+Gaon,Food and Beverage,80.0,80.0,2.0,8.0,1,True
+EriWeave,Beauty/Fashion,20.0,20.0,2.0,12.0,2,True
+PaleooBakes,Food and Beverage,100.0,100.0,2.0,9.0,2,True
+NeuraSim,Medical/Health,100.0,,,,3,False
+Offmint,Beauty/Fashion,0.0001,10.0,5.0,4.0,1,True
+Chokhat,Lifestyle/Home,50.0,30.0,2.0,10.0,1,True
+ZenmaCoffee,Food and Beverage,60.0,,,,2,False
+TheEleFant,Children/Education,60.0,,,,2,False
+BetterNutrition,Food and Beverage,60.0,60.0,1.0,1.0,2,True
+PinqPolka,Beauty/Fashion,100.0,,,,3,False
+Vibrasense,Medical/Health,100.0,100.0,2.0,4.76,1,True
+NearBook,Children/Education,40.0,40.0,1.0,20.0,1,True
+Memotag,Medical/Health,50.0,,,,1,False
+Klimate,Beauty/Fashion,54.0,,,,3,False
+HealthFab,Medical/Health,100.0,200.0,4.0,7.0,3,True
+PieMatrix,Others,100.0,,,,2,False
+Sudathi,Beauty/Fashion,100.0,100.0,3.0,4.0,3,True
+Moderate,Medical/Health,50.0,100.0,2.0,5.0,3,True
+HireForCare,Medical/Health,36.0,36.0,5.0,5.0,2,True
+DreamSmile,Medical/Health,80.0,,,,2,False
+Madmix,Food and Beverage,50.0,50.0,1.0,5.0,1,True
+Palmonas,Beauty/Fashion,126.0,126.0,2.0,1.0,2,True
+MKPowerAndMobility,Vehicles/Electrical Vehicles,350.0,,,,2,False
+Nidhi'sGrandmaaSecret,Beauty/Fashion,70.0,70.0,1.0,5.0,3,True
+Solnce,Manufacturing,100.0,100.0,1.0,2.5,2,True
+BornGood,Lifestyle/Home,70.0,,,,1,False
+DorabiAndAmili,Beauty/Fashion,75.0,100.0,2.0,4.0,3,True
+ZebraLearn,Children/Education,100.0,100.0,1.0,1.6,2,True
+ExclusiveLane,Lifestyle/Home,50.0,,,,2,False
+Medial,Technology/Software,50.0,50.0,1.0,2.5,4,True
+PanchalDairy,Food and Beverage,20.0,,,,2,False
+MusicPandit,Children/Education,50.0,,,,1,False
+Cograd,Children/Education,100.0,50.0,3.0,6.0,2,True
+EatBetterCo,Food and Beverage,50.0,50.0,1.0,0.5,3,True
+Earthful,Medical/Health,75.0,75.0,1.0,2.5,2,True
+Trajectory,Vehicles/Electrical Vehicles,100.0,50.0,1.0,3.0,2,True
+KaviThePoetry-ArtProject,Green/CleanTech,60.0,,,,2,False
+F2DF,Agriculture,50.0,5.0,1.0,2.0,4,True
+SugarStrings.ai,Medical/Health,100.0,,,,3,False
+MomsHome,Children/Education,75.0,75.0,1.0,2.0,2,True
+Catwalk,Food and Beverage,100.0,,,,2,False
+Beautywise,Beauty/Fashion,100.0,300.0,1.0,6.0,2,True
+Ivory,Medical/Health,50.0,50.0,1.0,5.0,2,True
+TheHousePartyBySavar,Business Services,100.0,50.0,1.0,5.0,2,True
+GlowGlossary,Food and Beverage,60.0,,,,2,False
+SinghDentalCare,Medical/Health,100.0,,,,1,False
+TribalVeda,Food and Beverage,50.0,50.0,1.0,2.8,2,True
+Anuvad,Beauty/Fashion,50.0,,,,1,False
+Fitelo,Fitness/Sports/Outdoors,150.0,150.0,2.0,1.0,2,True
+Nanighar,Food and Beverage,100.0,,,,2,False
+GoodMonk,Fitness/Sports/Outdoors,100.0,50.0,1.0,1.0,2,True
+Artbuzz,Business Services,100.0,,,,2,False
+Tulua,Food and Beverage,50.0,,,,2,False
+Taffykids,Children/Education,75.0,75.0,2.0,1.5,3,True
+WhaleWearables,Lifestyle/Home,30.0,30.0,2.0,3.0,2,True
+Zingavita,Medical/Health,100.0,,,,2,False
+DhaagaLife,Beauty/Fashion,75.0,,,,3,False
+Tileskraft,Lifestyle/Home,60.0,,,,1,False
+Krishnsakhi,Lifestyle/Home,37.5,,,,2,False
+BoreCharger,Agriculture,75.0,,,,2,False
+SuperBolter,Lifestyle/Home,75.0,,,,1,False
+HiveSchool,Children/Education,60.0,,,,3,False
+Tintbox,Lifestyle/Home,70.0,,,,2,False
+EasyRugs,Lifestyle/Home,35.0,35.0,2.0,5.0,2,True
+StylesTry,Beauty/Fashion,50.0,,,,2,False
+Quitci,Lifestyle/Home,50.0,,,,2,False
+FitFeast,Food and Beverage,100.0,100.0,2.0,18.0,1,True
+TheBearHouse,Beauty/Fashion,300.0,100.0,1.0,1.0,2,True
+UrbanAnimal,Animal/Pets,45.0,,,,2,False
+Nooky,Lifestyle/Home,60.0,,,,2,False
+Subculture,Beauty/Fashion,50.0,,,,1,False
+Woodsmen,Liquor/Alcohol,150.0,,,,1,False
+BhavisyaPlast,Green/CleanTech,50.0,200.0,4.0,10.0,1,True
+Ecoil,Green/CleanTech,100.0,50.0,2.0,1.0,2,True
+Rescript,Green/CleanTech,100.0,,,,2,False
+TickleYourArt,Others,21.3,21.3,2.0,7.0,3,True
+Symbionic,Medical/Health,80.0,40.0,1.0,1.0,2,True
+XLCinema,Entertainment,150.0,,,,2,False
